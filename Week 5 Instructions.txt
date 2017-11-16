@@ -16,7 +16,7 @@ NONE!!!!
 4. Coding exercises in Self coding folder 
 
 5. Coding exercises in “SRC” folder
-Instructions:
+Instructions (READ FULLY):
 The src folder has multiple classes with some inheritance. Short description:
 * Store: represents a store which has multiple employees(only 1 manager)
 * Employee: the base class from which Manager and Stocker should be extended from
@@ -38,6 +38,10 @@ Manager class
 
 Stocker class:
 * Nothing, this class works.
+
+
+RECOMMENDATION:
+Write down the relationship between employee, stocker, and manager before you start modifying the code
 
 
 6. BONUS: Challenge coding (not required)
