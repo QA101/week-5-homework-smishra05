@@ -1,0 +1,44 @@
+﻿1. Reading:
+
+http://www.geeksforgeeks.org/private-and-final-methods-in-java/
+http://www.geeksforgeeks.org/static-methods-vs-instance-methods-java/
+
+
+2. Videos:
+
+
+
+3. PracticeIT:
+
+NONE!!!!
+
+
+4. Coding exercises in Self coding folder 
+
+5. Coding exercises in “SRC” folder
+Instructions:
+The src folder has multiple classes with some inheritance. Short description:
+* Store: represents a store which has multiple employees(only 1 manager)
+* Employee: the base class from which Manager and Stocker should be extended from
+* Manager: Should be extended from Employee. Has 1 additional method which hires new employees
+* Stocker: Extended from Employee. Has 1 additional method which stocks selves.
+
+Sadly, my code is buggy and you need to fix it. :) I have left TODO comments in the code for tasks that need to be completed.
+
+Things to fix:
+Store class:
+* Store constructor creates a store with multiple employees, but a manager was never assigned to the store class. You need to set the manager correctly in the store constructor.
+* Manager is trying to StockSelves in the main method. How can this be fixed?
+
+Employee class
+* Employee should override the toString method and print the name and salary of the employee
+
+Manager class
+* Manager is not extended from Employee correctly.
+
+Stocker class:
+* Nothing, this class works.
+
+
+6. BONUS: Challenge coding (not required)
+
