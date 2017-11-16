@@ -1,22 +1,43 @@
-﻿1. Reading:
+0. Start looking into solving problems with code.
+
+Good resource is www.careercup.com
+
+Start here: https://careercup.com/page?pid=amazon-interview-questions&job=quality-assurance-engineer-interview-questions&topic=coding-interview-questions 
+
+
+1. Reading:
+Repeat Chapter 11: 11.1 - Lists / 11.3 - Maps
 
 http://www.geeksforgeeks.org/private-and-final-methods-in-java/
 http://www.geeksforgeeks.org/static-methods-vs-instance-methods-java/
 
+Chapter 6: 6.1 - 6.4 - File processing
+https://www.tutorialspoint.com/java/java_files_io.htm - Input/Output
 
 2. Videos:
 
+Repeat ArrayLists: https://www.youtube.com/watch?v=s8ju-dZJJ50 
+
+Methods: http://beginnersjava.com/java-tutorial-16-introduction-to-methods/
+
+User input: https://www.youtube.com/watch?v=h9_FGMo0Tbg&index=7&list=PL9DF6E4B45C36D411 
+
+File I/O: https://www.youtube.com/watch?v=_jhCvy8_lGE
 
 
 3. PracticeIT:
 
-NONE!!!!
+NONE!!!! 
+Well, if you really miss it you can do Chapter 6: Self-Check 6.1-6.7
+(Not required but helpful)
 
 
 4. Coding exercises in Self coding folder 
 
 5. Coding exercises in “SRC” folder
+
 Instructions (READ FULLY):
+
 The src folder has multiple classes with some inheritance. Short description:
 * Store: represents a store which has multiple employees(only 1 manager)
 * Employee: the base class from which Manager and Stocker should be extended from
@@ -45,4 +66,5 @@ Write down the relationship between employee, stocker, and manager before you st
 
 
 6. BONUS: Challenge coding (not required)
+Build this game: http://programmingbydoing.com/a/tic-tac-toe-oop.html 
 
