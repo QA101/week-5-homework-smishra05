@@ -1,6 +1,7 @@
+
 import java.util.ArrayList;
 
-public class Store {
+public class Store extends Manager{
 
 	ArrayList<Employee> employees = new ArrayList<Employee>();
 	Manager manager;
@@ -12,7 +13,7 @@ public class Store {
 		s.PrintManager();
 		
 		//TODO: The manager doesn't know how to StockShelfs.
-		Manager.StockSelf();
+		Manager.stockshelf();
 		
 		/**
 		 * Challenge Concept: try/catch and throwing an exception
